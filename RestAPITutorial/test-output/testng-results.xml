@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4687" started-at="2018-03-17T20:04:26Z" finished-at="2018-03-17T20:04:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4687" started-at="2018-03-17T20:04:26Z" finished-at="2018-03-17T20:04:30Z">
+      <class name="basic.PostRequestDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:basic.PostRequestDemo@1ce92674]" name="setup" is-config="true" duration-ms="535" started-at="2018-03-17T20:04:26Z" finished-at="2018-03-17T20:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="statusCodeVerification()[pri:0, instance:basic.PostRequestDemo@1ce92674]" name="statusCodeVerification" duration-ms="3024" started-at="2018-03-17T20:04:26Z" finished-at="2018-03-17T20:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCodeVerification -->
+        <test-method status="PASS" signature="statusCodeVerificationUsingModel()[pri:0, instance:basic.PostRequestDemo@1ce92674]" name="statusCodeVerificationUsingModel" duration-ms="1099" started-at="2018-03-17T20:04:29Z" finished-at="2018-03-17T20:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCodeVerificationUsingModel -->
+      </class> <!-- basic.PostRequestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-path-3.0.7-dist (2)/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-path-3.0.7-dist (2)/json-path-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/jackson-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/jackson-coreutils-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/jackson-databind-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/jopt-simple-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/json-schema-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/json-schema-validator-2.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/json-schema-validator-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/libphonenumber-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/rhino-1.7R4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/rest-assured-3.0.7.jar" sourcepath="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/docs/rest-assured-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/scala-support-3.0.7-dist/scala-library-2.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/scala-support-3.0.7-dist/scala-support-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-mock-mvc-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-test-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/spring-mock-mvc-3.0.7-dist/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/xml-path-3.0.7-dist/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/xml-path-3.0.7-dist/xml-path-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/docs/json-path-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/docs/json-path-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/docs/rest-assured-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/docs/rest-assured-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/docs/xml-path-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/rest-assured-3.0.7-dist/docs/xml-path-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/docs/json-schema-validator-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-schema-validator-3.0.7-dist/docs/json-schema-validator-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-path-3.0.7-dist (2)/docs/json-path-3.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-path-3.0.7-dist (2)/docs/rest-assured-common-3.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse Oxygen for JAVA/Extras/libs/Rest-Assured/json-path-3.0.7-dist (2)/docs/rest-assured-common-3.0.7-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
