@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4687" started-at="2018-03-17T20:04:26Z" finished-at="2018-03-17T20:04:30Z">
+  <suite name="Default suite" duration-ms="3561" started-at="2018-03-18T22:25:56Z" finished-at="2018-03-18T22:26:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4687" started-at="2018-03-17T20:04:26Z" finished-at="2018-03-17T20:04:30Z">
-      <class name="basic.PostRequestDemo">
-        <test-method status="PASS" signature="setup()[pri:0, instance:basic.PostRequestDemo@1ce92674]" name="setup" is-config="true" duration-ms="535" started-at="2018-03-17T20:04:26Z" finished-at="2018-03-17T20:04:26Z">
+    <test name="Default test" duration-ms="3561" started-at="2018-03-18T22:25:56Z" finished-at="2018-03-18T22:26:00Z">
+      <class name="twitterexamples.RequestLoggingExample">
+        <test-method status="PASS" signature="setup()[pri:0, instance:twitterexamples.RequestLoggingExample@e45f292]" name="setup" is-config="true" duration-ms="534" started-at="2018-03-18T22:25:57Z" finished-at="2018-03-18T22:25:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="statusCodeVerification()[pri:0, instance:basic.PostRequestDemo@1ce92674]" name="statusCodeVerification" duration-ms="3024" started-at="2018-03-17T20:04:26Z" finished-at="2018-03-17T20:04:29Z">
+        <test-method status="PASS" signature="verifyLatestTweetsForAUserHTTPResponse()[pri:0, instance:twitterexamples.RequestLoggingExample@e45f292]" name="verifyLatestTweetsForAUserHTTPResponse" duration-ms="2992" started-at="2018-03-18T22:25:57Z" finished-at="2018-03-18T22:26:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- statusCodeVerification -->
-        <test-method status="PASS" signature="statusCodeVerificationUsingModel()[pri:0, instance:basic.PostRequestDemo@1ce92674]" name="statusCodeVerificationUsingModel" duration-ms="1099" started-at="2018-03-17T20:04:29Z" finished-at="2018-03-17T20:04:30Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- statusCodeVerificationUsingModel -->
-      </class> <!-- basic.PostRequestDemo -->
+        </test-method> <!-- verifyLatestTweetsForAUserHTTPResponse -->
+      </class> <!-- twitterexamples.RequestLoggingExample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -69,6 +69,7 @@ public class PostRequestDemo {
 		
 		given()
 			.queryParam("key","AIzaSyBYGoI57SsYICo9oQZgKxX0kejLrF9ZQeo")
+		//jackson or gson --->>> convert the object to json format	
 			.body(places)
 		.when()
 			.post("/place/add/json")
