@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3561" started-at="2018-03-18T22:25:56Z" finished-at="2018-03-18T22:26:00Z">
+  <suite name="Default suite" duration-ms="2719" started-at="2018-03-19T18:24:10Z" finished-at="2018-03-19T18:24:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3561" started-at="2018-03-18T22:25:56Z" finished-at="2018-03-18T22:26:00Z">
-      <class name="twitterexamples.RequestLoggingExample">
-        <test-method status="PASS" signature="setup()[pri:0, instance:twitterexamples.RequestLoggingExample@e45f292]" name="setup" is-config="true" duration-ms="534" started-at="2018-03-18T22:25:57Z" finished-at="2018-03-18T22:25:57Z">
+    <test name="Default test" duration-ms="2719" started-at="2018-03-19T18:24:10Z" finished-at="2018-03-19T18:24:13Z">
+      <class name="specs.ResponseSpecificationDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:specs.ResponseSpecificationDemo@1aa7ecca]" name="setup" is-config="true" duration-ms="237" started-at="2018-03-19T18:24:10Z" finished-at="2018-03-19T18:24:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="verifyLatestTweetsForAUserHTTPResponse()[pri:0, instance:twitterexamples.RequestLoggingExample@e45f292]" name="verifyLatestTweetsForAUserHTTPResponse" duration-ms="2992" started-at="2018-03-18T22:25:57Z" finished-at="2018-03-18T22:26:00Z">
+        <test-method status="PASS" signature="verifyHTTPResponse()[pri:0, instance:specs.ResponseSpecificationDemo@1aa7ecca]" name="verifyHTTPResponse" duration-ms="2459" started-at="2018-03-19T18:24:10Z" finished-at="2018-03-19T18:24:13Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLatestTweetsForAUserHTTPResponse -->
-      </class> <!-- twitterexamples.RequestLoggingExample -->
+        </test-method> <!-- verifyHTTPResponse -->
+      </class> <!-- specs.ResponseSpecificationDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
